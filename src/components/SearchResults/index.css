@@ -1,0 +1,21 @@
+.search-results .card {
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+
+.search-results .card .card-title {
+  clear: both;
+}
+
+.search-results .card .card-title .badge {
+  float: right;
+}
+
+.search-results .card .list-group .badge {
+  margin-right: 5px;
+}
+
+.search-results .list-group-item {
+  padding: 10px 5px;
+}
+
